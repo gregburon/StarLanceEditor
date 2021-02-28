@@ -1,0 +1,2 @@
+# StarLanceEditor
+This is the level design application I wrote for making levels for Star Lance Alpha. It was written in C++ with MFC and allows you to make levels containing any objects that the Star Lance Alpha application supports. One thing I learned when developing this alongside Star Lance Alpha was a healthy respect and an understanding that developers need solid tools to support their game dev activities!
